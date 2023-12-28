@@ -10,7 +10,11 @@ console.clear();
 */
 
 // --v-- write your code here --v--
-
+const title = "Bisasam";
+const text = "Ich bin das coolste Pokemon!";
+const numberOfLikes = 12;
+const autor = "Nadine";
+const isReported = false;
 // --^-- write your code here --^--
 
 /*
@@ -18,5 +22,11 @@ console.clear();
 */
 
 // --v-- write your code here --v--
+console.log(title);
+console.log(text);
+console.log(numberOfLikes);
+console.log(autor);
+console.log(isReported);
 
+console.log(numberOfLikes + 1);
 // --^-- write your code here --^--
